@@ -1,1 +1,1 @@
-Códdigo Aberto + LocalHost Abra o index.html
+Código Aberto + LocalHost Abra o index.html
